@@ -26,8 +26,8 @@ Card de apresentação profissional de programador fictício. Inicialmente, o ca
 
 ### Demonstração
 <div align="center">
-    <img width="250" alt="Tela Inicial" src=".github/card-professional-1.jpg" />
-    <img width="250" alt="Lisa Expandida" src=".github/card-professional-2.jpg" />
+    <img width="250" alt="Tela Inicial" src=".github/card-profissional-1.jpg" />
+    <img width="250" alt="Lisa Expandida" src=".github/card-profissional-2.jpg" />
 </div>
 <hr>
 
