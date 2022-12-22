@@ -22,7 +22,7 @@
 
 ## 🖥️ Projeto
 
-Card de apresentação profissional de programador fictício. Inicialmente, o card exibe imagem, nome, e-mail e telefone de contato, porém ao clicar no botão de expandir, é acrescido as tecnologias (cada uma com uma respectiva cor) que o programador domina, além de botões de enviar mensagem e contratá-lo.
+Card de apresentação profissional de programador fictício. Inicialmente, o card exibe imagem, nome, e-mail e telefone de contato, porém ao clicar no botão de expandir, é acrescido as tecnologias (cada uma com uma respectiva cor) que o programador domina, além de botões de enviar mensagem e contratá-lo. Projeto desenvolvido como dever de casa para a disciplina de programação mobile com o intuito de praticar o conceito de renderização dinâmica através de funções em React Native.
 
 ### Demonstração
 <div align="center">
@@ -35,7 +35,7 @@ Card de apresentação profissional de programador fictício. Inicialmente, o ca
 ## 📖 Aprendizado
 
 - Uso de funções para renderizações dinâmicas
-- Passagem de funções entre componntes
+- Passagem de funções entre componentes
 - Uso de containers como componentes globais
 - Imagens de Fundo em React
 - Manipulação de opacidade de views
